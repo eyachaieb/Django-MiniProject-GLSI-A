@@ -27,6 +27,6 @@ Sidi Bou Said club is a comprehensive hotel management system developed using Dj
    python manage.py runserver 0.0.0.0:8000
    ```
 ## Configuration
-   - Update the database settings in hotelhub/settings.py to use your preferred database.
-   - Customize the application settings in hotelhub/settings.py as needed.
+   - Update the database settings in sidibousaidhotelhub/settings.py to use your preferred database.
+   - Customize the application settings in sidibousaidhotelhub/settings.py as needed.
 
